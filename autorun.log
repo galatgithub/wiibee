@@ -1,0 +1,1187 @@
+Cannot find device "eth1"
+Can't get device info: No such device
+Failed to reset chip, command failure
+Can't initialize device: Success
+Can't get device info: No such device
+To git@github.com:galatgithub/wiibee.git
+   d65145e..4f5509f  master -> master
+Cannot find device "eth1"
+Can't get device info: No such device
+Failed to reset chip, command failure
+Can't initialize device: Success
+Can't get device info: No such device
+To git@github.com:galatgithub/wiibee.git
+   4f5509f..29aa89d  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   29aa89d..4a46ba0  master -> master
+Cannot find device "eth1"
+[2017-07-29 17:26:23,857][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Error: Could not set address to 0x68: Device or resource busy
+Error: Could not set address to 0x68: Device or resource busy
+To git@github.com:galatgithub/wiibee.git
+   4a46ba0..0a38769  master -> master
+Cannot find device "eth1"
+[2017-07-29 17:27:42,586][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+ssh: Could not resolve hostname github.com: Name or service not know
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Cannot find device "eth1"
+Error: Could not set address to 0x68: Device or resource busy
+Error: Could not set address to 0x68: Device or resource busy
+To git@github.com:galatgithub/wiibee.git
+   0a38769..04d9e03  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   04d9e03..4753fa7  master -> master
+Cannot find device "eth1"
+[2017-07-30 08:35:28,733][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+To git@github.com:galatgithub/wiibee.git
+   4753fa7..f68e73a  master -> master
+Cannot find device "eth1"
+[2017-07-30 09:00:55,637][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Error: Could not set address to 0x68: Device or resource busy
+To git@github.com:galatgithub/wiibee.git
+   f68e73a..180f167  master -> master
+Cannot find device "eth1"
+[2017-07-30 16:00:27,580][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+ssh: Could not resolve hostname github.com: Name or service not knowm
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Cannot find device "eth1"
+[2017-07-30 16:08:07,079][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+To git@github.com:galatgithub/wiibee.git
+   180f167..26b1e60  master -> master
+Cannot find device "eth1"
+[2017-07-30 16:15:28,255][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+To git@github.com:galatgithub/wiibee.git
+   26b1e60..c07e58e  master -> master
+Cannot find device "eth1"
+[2017-07-30 16:20:31,013][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+To git@github.com:galatgithub/wiibee.git
+   c07e58e..386502d  master -> master
+Cannot find device "eth1"
+[2017-07-30 16:25:28,761][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+To git@github.com:galatgithub/wiibee.git
+   386502d..ca3e617  master -> master
+Cannot find device "eth1"
+[2017-07-30 16:30:31,320][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Cannot find device "eth1"
+[2017-07-30 16:35:28,870][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+To git@github.com:galatgithub/wiibee.git
+   ca3e617..1b2d146  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   1b2d146..2f8fb37  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   2f8fb37..4c49e27  master -> master
+Cannot find device "eth1"
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   8e580e1..1c56a86  master -> master
+fatal: Unable to create '/mnt/bee1/wiibee/.git/refs/remotes/origin/master.lock': Read-only file system
+Cannot find device "eth1"
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   1c56a86..cd4e3b9  master -> master
+Cannot find device "eth1"
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Cannot find device "eth1"
+[2017-07-31 06:39:06,974][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ValueError: bad marshal data (unknown type code)
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+warning: unable to unlink .git/index.lock: Read-only file system
+warning: unable to unlink .git/next-index-1363.lock: Read-only file system
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh: line 42: wiibee.txt: Read-only file system
+/mnt/bee1/wiibee/autorun.sh: line 44: wiibee.js: Read-only file system
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+fatal: Unable to create '/mnt/bee1/wiibee/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack signature is unavailable
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+EOFError: EOF read where object expected
+error: unable to resolve reference HEAD: Invalid argument
+fatal: cannot lock HEAD ref
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/HEAD does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/http/master does not point to a valid object!
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack does not match index
+warning: packfile .git/objects/pack/pack-fbcb530aec75bc9c73a294576fb7131e8b15a591.pack cannot be accessed
+error: refs/remotes/pk/master does not point to a valid object!
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
