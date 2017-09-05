@@ -9,7 +9,11 @@ BTADDR="00:1e:35:fd:11:fc 00:22:4c:6e:12:6c 00:1e:35:ff:b0:04 00:23:31:84:7E:4C"
 lsusb | grep 12d1:1f01 && sudo usb_modeswitch -v 0x12d1 -p 0x1f01 -M "55534243123456780000000000000a11062000000000000100000000000000"
 # run DHCP client to get an IP
 ifconfig -a | grep eth1 -A1 | grep inet || sudo dhclient eth1
-
+sleep 10
+lsusb | grep 12d1:1f01 && sudo usb_modeswitch -v 0x12d1 -p 0x1f01 -M "55534243123456780000000000000a11062000000000000100000000000000"
+# run DHCP client to get an IP
+ifconfig -a | grep eth1 -A1 | grep inet || sudo dhclient eth1
+sleep 10
 #sleep 12 # FIXME "wait" for dhcpd timeout
 # if BT failed: sudo systemctl status hciuart.service
 hciconfig hci0 || hciattach /dev/serial1 bcm43xx 921600 noflow -
@@ -35,7 +39,9 @@ logger "Simulate press red sync button on the Wii Board"
 for gpio in $GPIOS; do
     sudo gpio mode  $gpio out
     sudo gpio write $gpio 0
+    sleep 0.1
     sudo gpio write $gpio 1
+    sleep 0.2
 done
 
 logger "Start listenning to the mass measurements"

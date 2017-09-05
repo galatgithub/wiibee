@@ -40,7 +40,9 @@ logger "Simulate press red sync button on the Wii Board"
 for gpio in $GPIOS; do
     sudo gpio mode  $gpio out
     sudo gpio write $gpio 0
+    sleep 0.2 #GAl
     sudo gpio write $gpio 1
+    sleep 0.2 #GAl
 done
 echo "OK 5"
 

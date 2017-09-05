@@ -1185,3 +1185,353 @@ error: refs/remotes/pk/master does not point to a valid object!
 warning: ignoring broken ref refs/heads/master.
 error: src refspec master does not match any.
 error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   b3c3235..59aeec3  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   59aeec3..b94df0c  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   b94df0c..12f7aae  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   12f7aae..7e882eb  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   7e882eb..bd2766b  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   bd2766b..3598ba3  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   3598ba3..7d40cff  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   7d40cff..d22a6a3  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   d22a6a3..0a7d2c0  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   0a7d2c0..560b2fa  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   560b2fa..7a9d44e  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   7a9d44e..4267952  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   4267952..29c4cc1  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   29c4cc1..2084523  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   2084523..787164a  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   787164a..526719b  master -> master
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   526719b..d958d9b  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   d958d9b..db624c9  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   db624c9..4e3bde8  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   4e3bde8..5283fc6  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   5283fc6..5d1d517  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   5d1d517..f9d3e15  master -> master
+Cannot find device "eth1"
+Cannot find device "eth1"
+                                                                               Cannot find device "eth1"
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: could not convert string to float: 
+error: bad signature
+fatal: index file corrupt
+warning: ignoring broken ref refs/heads/master.
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:galatgithub/wiibee.git'
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   a5bb926..f8eae15  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   f8eae15..11380ac  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   11380ac..5f1aad2  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   5f1aad2..33b2941  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   33b2941..be9b9bb  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   be9b9bb..ef6f6c6  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   ef6f6c6..9394886  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   9394886..b960b67  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   b960b67..6f1f1f0  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   6f1f1f0..b5cfd7f  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   b5cfd7f..c58c128  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   c58c128..7ac8f45  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   7ac8f45..7ce3aa9  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   7ce3aa9..e94f263  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   e94f263..3ebad19  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   3ebad19..972415e  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   972415e..3d55e31  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   3d55e31..4def319  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   4def319..b961c1a  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   b961c1a..897152a  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   897152a..b88065c  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   b88065c..6b9c16b  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   6b9c16b..7e78e0b  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   7e78e0b..7a59c8f  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   7a59c8f..e519f85  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   e519f85..1d2a75e  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   1d2a75e..d93f8f0  master -> master
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   d93f8f0..ad73c2e  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   ad73c2e..3b578d6  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   3b578d6..d999205  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   d999205..5becb18  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   5becb18..93a737a  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   93a737a..8cd6be6  master -> master
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   8cd6be6..bd32e3a  master -> master
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+To git@github.com:galatgithub/wiibee.git
+   bd32e3a..ccc8e5d  master -> master
+Tue  5 Sep 16:31:20 UTC 2017
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   ccc8e5d..ae7eb4c  master -> master
+Tue  5 Sep 18:00:21 UTC 2017
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   ae7eb4c..addc184  master -> master
+Tue  5 Sep 19:00:21 UTC 2017
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   addc184..81b576c  master -> master
+Tue  5 Sep 20:00:21 UTC 2017
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   81b576c..a474d8e  master -> master
+Tue  5 Sep 21:00:21 UTC 2017
+Cannot find device "eth1"
+To git@github.com:galatgithub/wiibee.git
+   a474d8e..c24a89c  master -> master
