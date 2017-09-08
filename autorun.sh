@@ -49,7 +49,7 @@ python autorun.py $BTADDR >> wiibee.txt
 logger "Stoped listenning"
 python txt2js.py wiibee < wiibee.txt > wiibee.js
 git commit wiibee.js -m"[data] $(date -Is)"
-git push origin master
+git push origin master 2>A || cat A | mail -s "GIT a merdé sur Wiibee" guilhem.a@free.fr 
 
 # obexftp -b A0:CB:FD:F7:80:F1 -v -p wiibee.js
 # cp ~/wittyPi/wittyPi.log /mnt/bee1/
