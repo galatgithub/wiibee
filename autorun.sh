@@ -1,9 +1,9 @@
 #! /bin/bash
 
 # Relay PIN, see: http://pinout.xyz/pinout/wiringpi
-GPIOS="2 4 5 6" # http://pinout.xyz/pinout/pin16_gpio23
+GPIOS="2 4 5 6 21" # http://pinout.xyz/pinout/pin16_gpio23
 # Bluetooth MAC, use: hcitool scan, or: python wiiboard.py
-BTADDR="00:1e:35:fd:11:fc 00:22:4c:6e:12:6c 00:1e:35:ff:b0:04 00:23:31:84:7E:4C"
+BTADDR="00:1e:35:fd:11:fc 00:22:4c:6e:12:6c 00:1e:35:ff:b0:04 00:23:31:84:7E:4C 00:26:59:69:F2:25"
 
 # fix Huawei E3135 recognized as CDROM [sr0]
 lsusb | grep 12d1:1f01 && sudo usb_modeswitch -v 0x12d1 -p 0x1f01 -M "55534243123456780000000000000a11062000000000000100000000000000"

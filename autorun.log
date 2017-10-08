@@ -1537,3 +1537,627 @@ To git@github.com:galatgithub/wiibee.git
    a474d8e..c24a89c  master -> master
 Fri  8 Sep 21:05:46 UTC 2017
 Cannot find device "eth1"
+Mon 25 Sep 06:45:25 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 06:46:08,149][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2017-09-25 06:46:13,352][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2017-09-25 06:46:18,572][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2017-09-25 06:46:23,772][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+Mon 25 Sep 06:47:29 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 06:47:58,136][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2017-09-25 06:48:03,334][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2017-09-25 06:48:08,534][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2017-09-25 06:48:13,734][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+Mon 25 Sep 08:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 08:01:08,526][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 09:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 09:00:58,997][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 10:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 10:00:49,948][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 11:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 11:01:01,985][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 12:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 12:00:57,727][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 13:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 13:00:58,122][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 14:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 14:00:52,819][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 15:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 15:00:50,057][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 16:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 16:00:51,189][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 17:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 17:00:52,553][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 18:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 18:00:54,904][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 19:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 19:01:01,658][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 20:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 20:00:57,113][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 21:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 21:00:58,127][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon 25 Sep 22:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-25 22:00:58,674][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 04:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 04:01:00,030][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 05:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 05:00:58,771][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 06:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 06:00:49,845][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 07:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 07:00:56,833][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 08:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 08:01:12,665][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 09:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-26 09:00:57,721][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 10:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-26 10:01:00,912][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 11:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 11:00:51,021][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 12:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-26 12:01:11,112][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 13:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 13:00:58,156][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 14:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 14:00:50,989][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 15:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 15:01:00,295][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 16:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 16:00:55,137][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 18:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 18:00:49,945][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 19:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 19:00:52,868][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 20:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-26 20:01:08,126][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 21:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 21:00:58,096][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue 26 Sep 22:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-26 22:01:07,736][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 04:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-27 04:01:07,744][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 05:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 05:00:58,111][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 06:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 06:00:50,421][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 07:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-27 07:01:14,290][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 08:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-27 08:00:59,807][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 09:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-27 09:00:58,380][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 10:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+[2017-09-27 10:02:05,327][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Wed 27 Sep 11:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 11:00:57,680][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 12:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 12:00:49,807][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 13:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 13:00:54,184][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 14:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 14:00:49,862][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 15:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-27 15:01:06,626][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 16:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 16:00:57,136][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 17:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 17:00:59,356][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 18:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 18:00:59,641][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 19:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 19:01:04,115][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 20:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 20:00:58,688][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 21:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-27 21:01:09,971][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed 27 Sep 22:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-27 22:00:59,950][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 04:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 04:00:50,709][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 05:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 05:01:06,140][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 06:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 06:00:58,753][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 07:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 07:00:59,756][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 08:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 08:00:54,247][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 09:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-28 09:01:11,840][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 10:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+[2017-09-28 10:02:05,210][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Thu 28 Sep 11:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 11:00:55,267][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 12:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-09-28 12:01:02,315][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 13:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 13:00:52,518][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 14:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 14:00:59,531][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 15:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 15:01:00,625][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 16:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 16:00:50,210][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 17:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 17:00:58,721][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 18:43:11 UTC 2017
+Cannot find device "eth1"
+[2017-09-28 18:43:45,700][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2017-09-28 18:43:50,899][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu 28 Sep 20:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+[2017-09-28 20:02:05,434][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2017-09-28 20:02:10,636][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Thu 28 Sep 22:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+[2017-09-28 22:02:04,763][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Sun  1 Oct 20:13:43 UTC 2017
+Cannot find device "eth1"
+[2017-10-01 20:14:13,036][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Sun  1 Oct 22:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-01 22:00:57,236][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2017-10-01 22:01:02,437][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon  2 Oct 16:09:01 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+[2017-10-02 16:10:49,908][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2017-10-02 16:10:55,109][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Mon  2 Oct 19:36:17 UTC 2017
+[2017-10-02 19:36:44,884][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon  2 Oct 21:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-02 21:01:04,983][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2017-10-02 21:01:10,178][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Mon  2 Oct 22:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-02 22:01:02,219][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 04:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 04:00:52,489][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 05:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 05:00:50,264][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 06:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 06:00:52,503][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 07:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 07:00:49,950][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 08:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 08:00:50,023][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 09:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 09:00:49,881][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 10:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 10:00:52,729][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 11:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-10-03 11:01:11,779][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 12:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 12:00:59,549][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 13:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 13:00:56,689][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 14:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-10-03 14:01:04,646][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 15:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-10-03 15:01:09,845][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 16:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 16:00:58,295][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 17:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 17:00:50,647][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 18:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 18:00:58,144][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 19:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 19:01:00,804][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 21:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 21:00:59,149][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Tue  3 Oct 22:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-03 22:00:50,522][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 04:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 04:00:52,959][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 05:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 05:00:55,466][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 06:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 06:01:10,367][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 07:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 07:00:56,443][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 08:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 08:00:56,684][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 09:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 09:01:00,862][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 10:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+[2017-10-04 10:02:11,645][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Wed  4 Oct 11:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 11:00:56,425][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 12:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 12:00:50,018][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 13:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 13:00:49,985][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 14:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+[2017-10-04 14:02:05,817][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Wed  4 Oct 15:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 15:01:07,570][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 16:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 16:00:50,710][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 17:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2017-10-04 17:00:50,178][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Wed  4 Oct 18:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2017-10-04 18:00:52,366][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Wed  4 Oct 19:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2017-10-04 19:00:49,537][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Wed  4 Oct 20:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2017-10-04 20:00:52,431][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Wed  4 Oct 21:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 21:00:50,029][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Wed  4 Oct 22:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-04 22:01:04,230][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 04:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 04:01:01,083][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 05:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 05:01:09,527][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 06:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 06:00:50,145][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 07:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 07:00:56,433][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 08:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-10-05 08:01:08,451][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 09:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 09:00:56,107][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 10:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 10:00:50,477][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 11:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 11:01:06,681][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 12:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 12:00:56,424][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2017-10-05 12:01:01,775][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+Thu  5 Oct 13:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 13:00:50,424][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 14:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 14:01:02,814][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 15:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+[2017-10-05 15:02:10,355][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Thu  5 Oct 16:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 16:00:49,929][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 17:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+[2017-10-05 17:02:08,914][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+mail: cannot send message: Process exited with a non-zero status
+Thu  5 Oct 18:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 18:01:00,382][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 19:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 19:00:50,482][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 20:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 20:00:56,605][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 21:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 21:00:52,552][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Thu  5 Oct 22:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-05 22:00:52,418][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 04:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 04:00:50,962][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 05:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 05:00:56,820][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 06:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 06:00:50,711][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 07:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 07:00:52,801][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 08:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 08:00:59,217][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 09:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-10-06 09:01:10,820][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 10:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 10:00:50,507][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 11:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 11:00:58,788][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 12:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 12:00:58,083][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 13:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 13:00:55,992][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 14:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 14:00:56,927][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 15:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 15:00:49,899][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 16:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 16:01:04,006][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 17:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 17:01:00,318][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 18:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 18:00:57,439][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 19:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 19:00:49,820][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 20:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 20:00:57,444][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 21:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-06 21:00:49,801][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Fri  6 Oct 22:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-10-06 22:01:09,872][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Sat  7 Oct 04:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-07 04:00:49,836][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Sat  7 Oct 05:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-07 05:00:52,835][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Sat  7 Oct 06:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-07 06:00:52,848][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Sat  7 Oct 07:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+[2017-10-07 07:01:04,218][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Sat  7 Oct 08:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-07 08:00:52,593][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Sat  7 Oct 09:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-07 09:01:02,711][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2017-10-07 09:01:08,083][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+Sat  7 Oct 10:00:21 UTC 2017
+Cannot find device "eth1"
+[2017-10-07 10:00:54,315][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+Sat  7 Oct 11:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+Sat  7 Oct 12:00:21 UTC 2017
+Cannot find device "eth1"
+Cannot find device "eth1"
+connect: Network is unreachable
+Device "eth1" does not exist.
+mail: cannot send message: Process exited with a non-zero status
+Sat  7 Oct 13:00:21 UTC 2017
+Cannot find device "eth1"
+Sat  7 Oct 14:00:21 UTC 2017
+Cannot find device "eth1"
+Sat  7 Oct 15:00:21 UTC 2017
+Cannot find device "eth1"
+RTNETLINK answers: File exists
+Sat  7 Oct 16:00:21 UTC 2017
+Cannot find device "eth1"
+Sat  7 Oct 17:00:21 UTC 2017
+Cannot find device "eth1"
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+  File "/mnt/bee1/wiibee/wiiboard.py", line 15, in <module>
+    import bluetooth
+ImportError: No module named bluetooth
+/mnt/bee1/wiibee/autorun.sh: line 51: git: command not found
+/mnt/bee1/wiibee/autorun.sh: line 52: mail: command not found
+RTNETLINK answers: File exists
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+  File "/mnt/bee1/wiibee/wiiboard.py", line 15, in <module>
+    import bluetooth
+ImportError: No module named bluetooth
+/mnt/bee1/wiibee/autorun.sh: line 51: git: command not found
+/mnt/bee1/wiibee/autorun.sh: line 52: mail: command not found
+Too few arguments.
+Too few arguments.
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+  File "/mnt/bee1/wiibee/wiiboard.py", line 15, in <module>
+    import bluetooth
+ImportError: No module named bluetooth
+Too few arguments.
+Too few arguments.
+Too few arguments.
+Too few arguments.
+Too few arguments.
+Too few arguments.
+RTNETLINK answers: File exists
+[2017-10-08 11:08:09,103][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2017-10-08 11:08:14,298][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2017-10-08 11:08:19,498][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+RTNETLINK answers: File exists
+RTNETLINK answers: File exists
+[2017-10-08 12:04:05,148][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2017-10-08 12:04:10,360][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2017-10-08 12:04:15,724][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2017-10-08 12:04:21,008][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+Too few arguments.
+Too few arguments.
+[2017-10-08 14:01:04,998][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+RTNETLINK answers: File exists
+[2017-10-08 14:24:03,442][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+RTNETLINK answers: File exists
+Too few arguments.
+Too few arguments.
+RTNETLINK answers: File exists
+[2017-10-08 17:33:00,953][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+RTNETLINK answers: File exists
