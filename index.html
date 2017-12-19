@@ -36,7 +36,8 @@ wiibee.forEach(function(elt1, index1, arr1) {
     elt1.forEach(function(elt2, index2, arr2) {
         multi[index2].push([
             new Date(1000*elt1[0]),
-            elt2 < 5 ? null : elt2 + offset[index2]
+            //elt2 < 5 ? null : elt2 + offset[index2]
+            elt2 < -10 ? null : elt2 + offset[index2]
         ]);
         ndata = Math.max(index2, ndata);
         if (index2 > 0) {
@@ -64,8 +65,7 @@ function gr(index) {
             },
             y: {
                 valueFormatter: function(value) {
-                    //return (value < 10 && value >= 0 ? '0' : '') + value.toFixed(2);
-                    return (value >= 0 ? '0' : '') + value.toFixed(2);
+                    return (value < 10 && value >= 0 ? '0' : '') + value.toFixed(2);
                 },
             },
         },
