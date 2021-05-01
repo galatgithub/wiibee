@@ -36,15 +36,32 @@ done
 
 logger "Simulate press red sync button on the Wii Board"
 # http://wiringpi.com/the-gpio-utility/
-for gpio in $GPIOS; do
-    sudo gpio mode  $gpio out
-    sudo gpio write $gpio 0
-    sleep 0.1
-    sudo gpio write $gpio 1
-    sleep 0.2
-done
+#for gpio in $GPIOS; do
+#    sudo gpio mode  $gpio out
+#    sudo gpio write $gpio 0
+#    sleep 0.1
+#    sudo gpio write $gpio 1
+#    sleep 0.2
+#done
 
-logger "Start listenning to the mass measurements"
+# with bluetooth relay
+
+#hcitool scan
+
+echo -ne "agent on" | bluetoothctl
+echo -ne "trust 85:58:0E:16:56:74" | bluetoothctl
+echo -ne "pair 85:58:0E:16:56:74" | bluetoothctl
+sudo rfcomm bind 0 85:58:0E:16:56:74
+sudo chmod o+rw /dev/rfcomm0
+ls -l /dev/rfcomm0
+echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0 & pidbt=$!
+sleep 0.5
+kill $pidbt 2>/dev/null
+echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0 & pidbt=$!
+sleep 0.5
+kill $pidbt 2>/dev/null
+
+logger "Start listening to the mass measurements"
 python autorun.py $BTADDR >> wiibee.txt
 logger "Stoped listenning"
 python txt2js.py wiibee < wiibee.txt > wiibee.js
