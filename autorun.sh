@@ -1,9 +1,9 @@
 #! /bin/bash
 
-# Relay PIN, see: http://pinout.xyz/pinout/wiringpi
-GPIOS="2 4 5 6 21" # http://pinout.xyz/pinout/pin16_gpio23
 # Bluetooth MAC, use: hcitool scan, or: python wiiboard.py
 BTADDR="00:1e:35:fd:11:fc 00:22:4c:6e:12:6c 00:1e:35:ff:b0:04 00:23:31:84:7E:4C 00:26:59:69:F2:25"
+# Bluetooth relays addresses
+BTRLADDR="85:58:0E:16:65:F6"
 
 # fix Huawei E3135 recognized as CDROM [sr0]
 lsusb | grep 12d1:1f01 && sudo usb_modeswitch -v 0x12d1 -p 0x1f01 -M "55534243123456780000000000000a11062000000000000100000000000000"
@@ -35,36 +35,30 @@ until hciconfig hci0 up; do
 done
 
 logger "Simulate press red sync button on the Wii Board"
-# http://wiringpi.com/the-gpio-utility/
-#for gpio in $GPIOS; do
-#    sudo gpio mode  $gpio out
-#    sudo gpio write $gpio 0
-#    sleep 0.1
-#    sudo gpio write $gpio 1
-#    sleep 0.2
-#done
 
-# with bluetooth relay
+# Switch on bluetooth relay
 
 #hcitool scan
-
-echo -ne "agent on" | bluetoothctl
-echo -ne "trust 85:58:0E:16:56:74" | bluetoothctl
-echo -ne "pair 85:58:0E:16:56:74" | bluetoothctl
-sudo rfcomm bind 0 85:58:0E:16:56:74
+#echo -ne "scan on" | bluetoothctl
+#echo -ne "scan off" | bluetoothctl
+#echo -ne "agent on" | bluetoothctl
+#echo -ne "trust $BTRLADDR" | bluetoothctl
+#echo -ne "pair $BTRLADDR" | bluetoothctl
+sudo rfcomm bind 0 $BTRLADDR
 sudo chmod o+rw /dev/rfcomm0
-ls -l /dev/rfcomm0
+#ls -l /dev/rfcomm0
 echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0 & pidbt=$!
-sleep 0.5
+sleep 5
 kill $pidbt 2>/dev/null
 echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0 & pidbt=$!
-sleep 0.5
+sleep 5
 kill $pidbt 2>/dev/null
 
 logger "Start listening to the mass measurements"
 python autorun.py $BTADDR >> wiibee.txt
-logger "Stoped listenning"
+logger "Stopped listening"
 python txt2js.py wiibee < wiibee.txt > wiibee.js
+python txt2js.py wiibee_battery < wiibee_battery.txt > wiibee_battery.js
 git commit wiibee*.js -m"[data] $(date -Is)"
 git push origin master 2>A || cat A | mail -s "GIT a merdé sur Wiibee" guilhem.a@free.fr 
 

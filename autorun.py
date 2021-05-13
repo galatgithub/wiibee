@@ -70,7 +70,8 @@ for i in xrange(10):
     print("%.3f %.2f %.2f "%(time.time(), cpu_temp(), wtp_temp()) +
           " ".join(["%.2f"%(wb.average() if wb else 0) for wb in wiiboards]))
     battery_levels = " ".join(["%.2f"%(wb.battery if wb else 0) for wb in wiiboards])
-    with open("wiibee_battery.js", "a+") as fp:
-        fp.write(battery_levels + "\n")
+    
+with open("wiibee_battery.txt", "a+") as fp:
+    fp.write(str(time.time()) + " " + battery_levels + "\n")
 
 [wb.close() for wb in wiiboards if wb]

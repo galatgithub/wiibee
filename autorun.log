@@ -1,1 +1,845 @@
 
+Cannot find device "eth1"
+Cannot find device "eth1"
+
+(bluetoothctl:792): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+
+(bluetoothctl:794): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:796): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:798): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:800): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Too few arguments.
+Too few arguments.
+
+(bluetoothctl:806): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:808): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+
+(bluetoothctl:810): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:812): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+
+(bluetoothctl:814): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+
+(bluetoothctl:814): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:816): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:818): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:820): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:822): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+RTNETLINK answers: File exists
+
+(bluetoothctl:807): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+
+(bluetoothctl:809): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:811): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+
+(bluetoothctl:813): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:815): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+RTNETLINK answers: File exists
+
+(bluetoothctl:800): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:802): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:804): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:806): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:808): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+
+(bluetoothctl:810): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:812): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:814): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+/mnt/bee1/wiibee/autorun.sh : ligne 62 :   836 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 65 :   838 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+
+(bluetoothctl:811): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:813): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:815): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+/mnt/bee1/wiibee/autorun.sh : ligne 62 :   837 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+
+(bluetoothctl:806): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:808): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:810): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+RTNETLINK answers: File exists
+
+(bluetoothctl:808): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:810): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:812): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+
+(bluetoothctl:833): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:835): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+
+(bluetoothctl:837): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+*******************************************************************************************************
+
+
+(bluetoothctl:863): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+
+(bluetoothctl:865): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:867): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+RTNETLINK answers: File exists
+
+(bluetoothctl:818): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:820): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:822): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Traceback (most recent call last):
+  File "autorun.py", line 13, in <module>
+    from wiiboard import logger, WiiboardSampling
+ImportError: No module named wiiboard
+
+(bluetoothctl:799): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+
+(bluetoothctl:801): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:803): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+[2021-05-05 20:10:47,260][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-05 20:10:52,780][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-05 20:10:58,006][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-05 20:11:03,300][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+
+(bluetoothctl:810): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:812): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:814): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+[2021-05-05 20:13:08,844][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-05 20:13:14,201][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-05 20:13:19,502][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-05 20:13:24,765][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+RTNETLINK answers: File exists
+
+(bluetoothctl:817): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+
+(bluetoothctl:819): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:821): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+[2021-05-05 20:16:59,370][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-05 20:17:04,824][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-05 20:17:10,054][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-05 20:17:15,267][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+RTNETLINK answers: File exists
+
+(bluetoothctl:888): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:890): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:892): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Missing dev parameterchmod: impossible d'accéder à '/dev/rfcomm0': Aucun fichier ou dossier de ce type
+[2021-05-07 19:26:08,362][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-07 19:26:13,560][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-07 19:26:18,767][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-07 19:26:23,960][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-07 19:26:29,159][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+
+(bluetoothctl:674): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:676): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:678): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+Missing dev parameterchmod: impossible d'accéder à '/dev/rfcomm0': Aucun fichier ou dossier de ce type
+[2021-05-07 19:28:35,177][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-07 19:28:40,376][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-07 19:28:45,582][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-07 19:28:50,776][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-07 19:28:55,996][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+
+(bluetoothctl:675): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:677): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(bluetoothctl:679): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+Missing dev parameterchmod: impossible d'accéder à '/dev/rfcomm0': Aucun fichier ou dossier de ce type
+[2021-05-05 20:56:46,471][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-05 20:56:51,666][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-05 20:56:56,873][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-05 20:57:02,066][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-05 20:57:07,266][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-05 21:01:26,086][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-05 21:01:31,473][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-05 21:01:36,675][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-05 21:01:41,894][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+[2021-05-07 20:21:01,442][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-07 20:21:06,760][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-07 20:21:12,011][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-07 20:21:17,296][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+RTNETLINK answers: File exists
+[2021-05-07 20:26:23,105][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-07 20:26:28,571][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-07 20:26:33,775][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-07 20:26:38,975][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+RTNETLINK answers: File exists
+[2021-05-08 04:59:08,325][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 04:59:14,326][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 04:59:19,534][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 04:59:24,784][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   871 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 56 :   877 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 05:42:18,961][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 05:42:24,157][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 05:42:29,384][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 05:42:34,577][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 05:42:39,777][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   873 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   880 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 05:52:24,617][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 05:52:29,812][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 05:52:35,019][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 05:52:40,212][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 05:52:45,412][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   869 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   875 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 06:00:56,856][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 06:01:02,051][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 06:01:07,278][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 06:01:12,471][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 06:01:17,671][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   896 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   932 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 07:00:57,010][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 07:01:02,206][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 07:01:07,413][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 07:01:12,606][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 07:01:17,806][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   883 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   919 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 08:00:56,741][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 08:01:01,939][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 08:01:07,145][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 08:01:12,339][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 08:01:17,539][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   891 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   897 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 09:00:57,008][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 09:01:02,224][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 09:01:07,431][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 09:01:12,644][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 09:01:17,844][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   867 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   872 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 10:00:57,639][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 10:01:02,855][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 10:01:08,061][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 10:01:13,255][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 10:01:18,455][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   869 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   874 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 11:00:56,599][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 11:01:01,794][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 11:01:07,022][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 11:01:12,215][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 11:01:17,415][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   885 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   890 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 12:00:56,869][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 12:01:02,065][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 12:01:07,272][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 12:01:12,465][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 12:01:17,665][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   886 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   891 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 13:00:56,692][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 13:01:01,888][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 13:01:07,094][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 13:01:12,288][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 13:01:17,488][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   865 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   871 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 14:00:56,792][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 14:01:02,018][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 14:01:07,225][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 14:01:12,418][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 14:01:17,618][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   865 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   870 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 15:00:56,838][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 15:01:02,034][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 15:01:07,240][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 15:01:12,434][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 15:01:17,634][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   868 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   874 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-08 16:00:56,839][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 16:01:02,035][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-08 16:01:07,242][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 16:01:12,456][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 16:01:17,655][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-08 17:00:57,280][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 17:01:02,758][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 17:01:07,961][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 17:01:13,162][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-08 18:00:57,258][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 18:01:02,990][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 18:01:08,277][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 18:01:13,537][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-08 19:00:57,450][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 19:01:02,929][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 19:01:08,132][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 19:01:13,332][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-08 20:00:56,889][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 20:01:02,197][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 20:01:07,414][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 20:01:12,614][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-08 21:00:56,889][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 21:01:02,305][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 21:01:07,504][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 21:01:12,714][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-08 22:00:56,660][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 22:01:02,043][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 22:01:07,239][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 22:01:12,439][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-08 23:00:56,584][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-08 23:01:02,037][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-08 23:01:07,239][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-08 23:01:12,439][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 00:00:57,457][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 00:01:02,772][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 00:01:07,976][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 00:01:13,176][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 01:00:57,643][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 01:01:03,043][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 01:01:08,246][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 01:01:13,446][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 02:00:57,224][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 02:01:02,608][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 02:01:07,808][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 02:01:13,006][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 03:00:57,358][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 03:01:02,880][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 03:01:08,124][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 03:01:13,323][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 04:00:57,346][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 04:01:02,773][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 04:01:07,975][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 04:01:13,173][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 05:00:56,658][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 05:01:02,533][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 05:01:07,799][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 05:01:13,059][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 06:00:56,737][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 06:01:02,439][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 06:01:07,699][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 06:01:12,899][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 07:00:57,183][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 07:01:02,551][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 07:01:07,774][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 07:01:12,974][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 08:00:57,356][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 08:01:02,723][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 08:01:07,924][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 08:01:13,144][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 08:27:43,756][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 08:27:49,265][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 08:27:54,462][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 08:27:59,662][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 09:00:57,515][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 09:01:05,348][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 09:01:10,594][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 09:01:15,794][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 10:00:56,557][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 10:01:02,440][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 10:01:07,717][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 10:01:12,978][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 11:00:56,784][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 11:01:02,132][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 11:01:07,333][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 11:01:12,533][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 12:00:56,898][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 12:01:02,383][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 12:01:07,604][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 12:01:12,804][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 13:00:56,703][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 13:01:02,224][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 13:01:07,420][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 13:01:12,620][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 14:00:57,011][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 14:01:02,448][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 14:01:07,653][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 14:01:12,873][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 15:00:56,931][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 15:01:02,623][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 15:01:07,823][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 15:01:13,023][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 16:00:56,889][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 16:01:02,369][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 16:01:07,564][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 16:01:12,764][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-09 17:00:56,766][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 17:01:02,193][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 17:01:07,389][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 17:01:12,678][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   885 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   890 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-09 18:00:56,820][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-09 18:01:02,016][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-09 18:01:07,223][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-09 18:01:12,416][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-09 18:01:17,616][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   893 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   973 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-12 13:52:01,696][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-12 13:52:06,892][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-12 13:52:12,098][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-12 13:52:17,292][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-12 13:52:22,492][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   866 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   872 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-12 15:00:57,541][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-12 15:01:02,736][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-12 15:01:07,943][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-12 15:01:13,137][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-12 15:01:18,356][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :   882 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   888 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-05-12 16:00:56,916][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-12 16:01:02,112][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-05-12 16:01:07,318][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-12 16:01:12,512][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-12 16:01:17,712][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-12 17:00:56,884][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-12 17:01:02,198][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-12 17:01:07,396][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-12 17:01:12,596][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-12 18:00:57,000][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-12 18:01:02,409][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-12 18:01:07,608][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-12 18:01:12,808][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-12 19:00:57,396][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-12 19:01:02,759][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-12 19:01:07,954][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-12 19:01:13,153][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-12 20:00:57,426][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-12 20:01:02,954][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-12 20:01:08,174][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-12 20:01:13,374][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-12 21:00:56,852][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-12 21:01:02,224][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-12 21:01:07,444][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-12 21:01:12,646][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-12 22:00:56,930][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-12 22:01:02,295][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-12 22:01:07,494][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-12 22:01:12,695][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-12 23:00:56,866][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-12 23:01:02,322][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-12 23:01:07,519][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-12 23:01:12,718][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 00:00:57,524][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 00:01:03,063][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 00:01:08,258][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 00:01:13,458][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 01:00:57,996][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 01:01:03,904][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 01:01:09,123][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 01:01:14,323][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 02:00:56,836][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 02:01:02,214][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 02:01:07,417][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 02:01:12,637][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 03:00:56,889][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 03:01:02,365][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 03:01:07,563][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 03:01:12,763][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 04:00:56,871][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 04:01:02,219][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 04:01:07,418][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 04:01:12,628][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 05:00:56,769][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 05:01:02,300][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 05:01:07,534][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 05:01:12,734][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 06:00:57,354][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 06:01:02,901][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 06:01:08,100][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 06:01:13,299][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 07:00:57,273][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 07:01:03,179][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 07:01:08,416][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 07:01:13,625][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 07:27:09,077][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 07:27:14,549][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 07:27:19,749][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 07:27:24,950][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Traceback (most recent call last):
+  File "autorun.py", line 74, in <module>
+    fp.write(time.time() + battery_levels + "\n")
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 07:34:23,773][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 07:34:29,242][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 07:34:34,441][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 07:34:39,641][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Traceback (most recent call last):
+  File "autorun.py", line 76, in <module>
+    fp.write(ts + battery_levels + "\n")
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 07:54:44,130][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 07:54:49,458][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 07:54:54,658][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 07:54:59,858][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 08:04:21,056][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 08:04:26,376][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 08:04:31,572][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 08:04:36,772][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Traceback (most recent call last):
+  File "txt2js.py", line 15, in <module>
+    data = [map(float, line.split()) for line in sys.stdin.readlines()]
+ValueError: invalid literal for float(): 1620893079.070.00
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 08:13:54,510][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 08:14:00,008][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 08:14:05,203][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 08:14:10,424][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 09:00:56,605][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 09:01:01,994][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 09:01:07,208][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 09:01:12,408][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 10:00:57,363][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 10:01:02,829][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 10:01:08,027][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 10:01:13,227][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 11:00:57,234][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 11:01:02,593][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 11:01:07,788][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 11:01:12,988][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 12:00:56,637][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 12:01:02,060][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 12:01:07,258][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 12:01:12,498][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 13:00:57,495][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 13:01:02,897][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 13:01:08,096][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 13:01:13,297][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 14:00:56,862][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 14:01:02,180][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 14:01:07,378][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 14:01:12,578][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 15:00:56,659][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 15:01:02,054][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 15:01:07,275][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 15:01:12,494][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 16:00:56,763][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 16:01:02,087][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 16:01:07,286][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 16:01:12,486][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 17:00:56,910][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 17:01:02,450][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 17:01:07,658][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 17:01:12,878][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 18:00:57,064][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 18:01:02,383][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 18:01:07,581][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 18:01:12,781][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 18:42:54,853][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 18:43:00,200][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 18:43:05,398][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 18:43:10,598][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-05-13 19:05:55,189][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-05-13 19:06:00,622][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-05-13 19:06:05,817][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-05-13 19:06:11,037][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
