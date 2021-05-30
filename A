@@ -1,0 +1,8 @@
+To github.com:galatgithub/wiibee.git
+ ! [rejected]        master -> master (fetch first)
+error: impossible de pousser des références vers 'git@github.com:galatgithub/wiibee.git'
+astuce: Les mises à jour ont été rejetées car la branche distante contient du travail que
+astuce: vous n'avez pas en local. Ceci est généralement causé par un autre dépôt poussé
+astuce: vers la même référence. Vous pourriez intégrer d'abord les changements distants
+astuce: (par exemple 'git pull ...') avant de pousser à nouveau.
+astuce: Voir la 'Note à propos des avances rapides' dans 'git push --help' pour plus d'information.
