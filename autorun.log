@@ -6364,3 +6364,61 @@ Cannot find device "eth1"
 [2021-06-18 08:07:31,971][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
 error: inflate: data stream error (incorrect header check)
 fatal: loose object 50641c78b7e8440bcd4286d5b238ff11afe0652b (stored in .git/objects/50/641c78b7e8440bcd4286d5b238ff11afe0652b) is corrupt
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-06-18 08:38:34,729][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-18 08:38:40,226][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-18 08:38:45,427][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-18 08:38:50,627][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-06-18 09:05:52,435][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-18 09:05:58,140][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-18 09:06:03,343][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-18 09:06:08,543][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-06-18 10:05:53,273][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-18 10:05:58,815][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-18 10:06:04,009][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-18 10:06:09,209][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-06-18 11:05:53,452][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-18 11:05:58,920][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-18 11:06:04,123][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-18 11:06:09,323][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :  1035 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :  1041 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-18 12:20:04,813][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-18 12:20:10,011][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-18 12:20:15,218][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-18 12:20:20,432][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-18 12:20:25,651][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :  1121 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :  1127 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-18 12:22:19,056][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-18 12:22:24,270][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-18 12:22:28,510][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-18 12:22:33,703][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-18 12:22:38,903][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+error: inflate: data stream error (incorrect header check)
+fatal: loose object 88212031d36d2dc5a083356e0e3dfc7956b37b6b (stored in .git/objects/88/212031d36d2dc5a083356e0e3dfc7956b37b6b) is corrupt
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 54 :  1144 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :  1150 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-18 12:24:18,872][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-18 12:24:24,069][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-18 12:24:29,276][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-18 12:24:34,479][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-18 12:24:39,679][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+error: inflate: data stream error (incorrect header check)
+fatal: loose object 88212031d36d2dc5a083356e0e3dfc7956b37b6b (stored in .git/objects/88/212031d36d2dc5a083356e0e3dfc7956b37b6b) is corrupt
