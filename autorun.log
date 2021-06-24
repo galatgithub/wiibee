@@ -6884,3 +6884,341 @@ Cannot find device "eth1"
 [2021-06-22 06:05:24,002][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-06-22 06:05:29,220][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-06-22 06:05:34,421][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :  1328 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1613 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1616 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-06-22 11:01:21,704][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1173 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1176 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1182 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1185 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1185 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1188 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1171 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1174 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1172 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1175 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1173 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1176 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1175 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1178 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1205 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1208 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1202 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1205 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1189 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1192 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   980 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   986 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-22 17:01:26,477][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1361 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1364 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   980 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   986 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-22 18:01:27,002][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1374 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1377 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   982 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   987 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-22 19:01:27,636][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1363 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1366 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   996 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :  1032 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-22 20:01:27,941][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1408 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1411 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   980 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   986 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-22 21:01:28,602][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1362 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1365 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   881 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   886 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-22 22:00:57,132][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1065 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1068 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   890 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   896 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-22 23:00:57,125][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1075 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1078 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   868 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   873 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-23 00:00:56,886][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1052 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1055 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   870 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   876 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-23 01:00:57,264][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1055 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1058 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   867 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   872 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-23 02:00:57,077][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1051 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1054 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   866 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   871 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-23 03:00:56,904][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1050 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1053 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   900 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   905 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-23 04:00:57,286][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1084 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1087 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   880 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   885 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-23 05:00:57,138][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1064 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1067 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1194 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1197 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1323 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1326 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1192 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1195 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1236 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1239 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1190 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1193 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1208 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1211 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1205 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1208 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1177 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1180 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1190 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1193 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1177 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1180 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1200 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1203 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1205 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1208 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1193 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1196 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1074 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1077 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1063 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1066 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1132 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1135 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1079 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1082 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1078 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1081 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1074 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1077 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1057 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1060 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1073 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1076 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1060 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1063 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1078 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1081 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1200 Erreur du bus           git commit wiibee*.js -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh : ligne 64 :  1203 Erreur du bus           git commit autorun.log -m"[data] $(date -Is)"
+/mnt/bee1/wiibee/autorun.sh: ligne 65: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :  1018 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :  1025 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-24 12:05:29,299][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+error: bad index file sha1 signature
+fatal: index file corrupt
+error: bad index file sha1 signature
+fatal: index file corrupt
