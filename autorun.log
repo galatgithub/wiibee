@@ -7351,3 +7351,5 @@ Cannot find device "eth1"
 Cannot find device "eth1"
 /mnt/bee1/wiibee/autorun.sh : ligne 55 :   983 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
 [2021-06-26 16:01:56,866][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
