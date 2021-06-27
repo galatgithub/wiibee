@@ -7406,3 +7406,6 @@ Cannot find device "eth1"
 Cannot find device "eth1"
 Cannot find device "eth1"
 Cannot find device "eth1"
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-06-27 14:02:01,649][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
