@@ -7471,3 +7471,18 @@ Cannot find device "eth1"
 [2021-06-27 17:02:55,294][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-06-27 17:03:00,487][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-06-27 17:03:05,687][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   989 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   991 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1052 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1055 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1083 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1085 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1113 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1115 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-27 18:02:45,146][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-27 18:02:50,338][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-27 18:02:55,544][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-27 18:03:00,738][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-27 18:03:05,938][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
