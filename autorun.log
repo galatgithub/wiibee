@@ -7486,3 +7486,600 @@ Cannot find device "eth1"
 [2021-06-27 18:02:55,544][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-06-27 18:03:00,738][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-06-27 18:03:05,938][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   987 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   989 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1051 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1054 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1082 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1084 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1112 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1114 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-27 19:02:45,052][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-27 19:02:50,286][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-27 19:02:55,493][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-27 19:03:00,687][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-27 19:03:05,888][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+error: unable to create temporary file: Erreur d'entrée/sortie
+error: autorun.log: failed to insert into database
+error: unable to index file autorun.log
+fatal: échec de la mise à jour des fichiers
+warning: unable to unlink /mnt/bee1/wiibee/.git/index.lock: Système de fichiers accessible en lecture seulement
+/mnt/bee1/wiibee/autorun.sh: ligne 72: A: Système de fichiers accessible en lecture seulement
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   995 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   997 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1059 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1062 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1090 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1092 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1120 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1122 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-27 20:02:45,112][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-27 20:02:50,308][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-27 20:02:55,516][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-27 20:03:00,728][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-27 20:03:05,928][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   872 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   874 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   902 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   934 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   937 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   965 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   967 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   995 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   997 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-27 21:01:31,479][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-27 21:01:36,676][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-27 21:01:41,883][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-27 21:01:47,076][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-27 21:01:52,276][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   917 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   919 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   947 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   979 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   982 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1010 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1012 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1040 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1042 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-27 22:01:31,728][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-27 22:01:36,923][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-27 22:01:42,130][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-27 22:01:47,323][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-27 22:01:52,523][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   892 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   894 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   922 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   954 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   957 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   985 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   987 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1015 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1017 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-27 23:01:30,712][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-27 23:01:35,905][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-27 23:01:41,132][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-27 23:01:46,345][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-27 23:01:51,545][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   876 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   878 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   906 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   938 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   941 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   969 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   971 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   999 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1001 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 00:01:31,026][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 00:01:36,243][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 00:01:41,450][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 00:01:46,643][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 00:01:51,843][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   872 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   874 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   902 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   934 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   937 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   965 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   967 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   995 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   997 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 01:01:31,308][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 01:01:36,502][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 01:01:41,779][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 01:01:46,972][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 01:01:52,192][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   874 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   876 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   904 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   937 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   940 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   968 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   970 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   998 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1000 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 02:01:31,612][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 02:01:36,804][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 02:01:42,011][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 02:01:47,204][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 02:01:52,404][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   871 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   873 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   901 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   933 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   936 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   964 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   966 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   994 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   996 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 03:01:31,951][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 03:01:37,141][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 03:01:42,347][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 03:01:47,541][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 03:01:52,741][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   874 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   876 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   904 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   937 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   940 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   968 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   970 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   998 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1000 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 04:01:30,851][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 04:01:36,044][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 04:01:41,250][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 04:01:46,443][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 04:01:51,644][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   885 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   887 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   915 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   947 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   950 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   978 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   980 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1008 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1010 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 05:01:31,171][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 05:01:36,362][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 05:01:41,619][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 05:01:46,811][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 05:01:52,011][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1145 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1195 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1223 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1225 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1253 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1256 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1284 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1386 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1414 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1416 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 06:02:46,497][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 06:02:51,688][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 06:02:56,895][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 06:03:02,088][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 06:03:07,308][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  5377 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  5379 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  5407 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  5539 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  5542 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  5570 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  5578 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  5606 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  5608 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 07:02:48,212][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 07:02:53,428][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 07:02:58,656][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 07:03:03,889][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 07:03:09,109][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1172 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1222 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1250 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1282 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1285 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1313 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1315 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1343 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1345 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 08:02:46,733][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 08:02:51,931][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 08:02:57,138][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 08:03:02,331][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 08:03:07,531][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1135 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1185 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1213 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1215 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1243 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1246 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1274 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1277 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1305 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1329 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 09:02:48,555][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 09:02:53,750][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 09:02:58,978][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 09:03:04,172][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 09:03:09,391][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   987 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   989 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1017 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1019 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1145 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1148 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1176 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1179 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1207 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1209 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 10:02:50,010][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 10:02:55,207][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 10:03:00,414][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 10:03:05,607][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 10:03:10,807][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   988 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :   990 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1018 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1050 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1053 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1081 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1083 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1111 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1113 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 11:02:50,027][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 11:02:55,226][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 11:03:00,444][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 11:03:05,637][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 11:03:10,837][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1182 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1184 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1212 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1245 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1248 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1276 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1278 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1306 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 49 :  1308 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-06-28 12:02:49,125][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 12:02:54,318][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 12:02:59,525][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 12:03:04,718][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 12:03:09,918][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1054 Fini                    echo $open
+      1055 Complété                | tee $LOGFILE
+Can't release device: No such device
+[2021-06-28 12:58:49,216][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 12:58:54,414][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 12:58:59,621][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 12:59:04,814][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 12:59:10,014][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 63 :  1057 Fini                    echo $open
+      1058 Complété                | tee $LOGFILE
+/mnt/bee1/wiibee/autorun.sh : ligne 66 :  1067 Fini                    echo $close
+      1068 Complété                | tee $LOGFILE
+Can't release device: No such device
+[2021-06-28 13:00:46,646][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-06-28 13:00:51,841][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-06-28 13:00:57,048][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-06-28 13:01:02,253][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-06-28 13:01:07,451][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Le fichier existe.
+
+Il semble qu'un autre processus git est déjà lancé dans ce dépôt,
+par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
+que tous les processus sont terminés et réessayez. Si l'echec persiste,
+un processus git peut avoir planté :
+supprimez le fichier manuellement pour poursuivre.
