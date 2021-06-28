@@ -8083,3 +8083,5 @@ par exemple un éditeur ouvert par 'git commit'. Veuillez vous assurer
 que tous les processus sont terminés et réessayez. Si l'echec persiste,
 un processus git peut avoir planté :
 supprimez le fichier manuellement pour poursuivre.
+Cannot find device "eth1"
+Cannot find device "eth1"
