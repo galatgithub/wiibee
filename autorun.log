@@ -10251,3 +10251,10 @@ que tous les processus sont terminés et réessayez. Si l'echec persiste,
 un processus git peut avoir planté :
 supprimez le fichier manuellement pour poursuivre.
 mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-07-07 08:48:40,978][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-07-07 08:48:46,173][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-07-07 08:48:51,380][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-07-07 08:48:56,573][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-07-07 08:49:01,773][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
