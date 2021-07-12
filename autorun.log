@@ -11020,3 +11020,10 @@ Cannot find device "eth1"
 [2021-07-12 03:01:02,497][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-07-12 03:01:07,694][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-07-12 03:01:12,893][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-07-12 04:00:56,708][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-07-12 04:01:02,046][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-07-12 04:01:07,245][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-07-12 04:01:12,445][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
