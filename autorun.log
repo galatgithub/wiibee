@@ -15393,3 +15393,10 @@ Cannot find device "eth1"
 [2021-08-10 08:48:05,786][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-08-10 08:48:10,987][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-08-10 08:48:16,187][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   989 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-08-10 10:04:55,350][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-08-10 10:05:01,098][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-08-10 10:05:06,324][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-08-10 10:05:11,524][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
