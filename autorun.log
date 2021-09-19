@@ -19091,3 +19091,30 @@ Cannot find device "eth1"
 [2021-09-19 02:01:07,799][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-09-19 02:01:12,993][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-09-19 02:01:18,193][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   876 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   881 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-09-19 03:00:57,360][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-09-19 03:01:02,555][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-09-19 03:01:07,762][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-09-19 03:01:12,955][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-09-19 03:01:18,185][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Traceback (most recent call last):
+  File "autorun.py", line 74, in <module>
+    with open("wiibee_battery.txt", "a+") as fp:
+IOError: [Errno 30] Read-only file system: 'wiibee_battery.txt'
+/mnt/bee1/wiibee/autorun.sh: ligne 61: wiibee.js: Système de fichiers accessible en lecture seulement
+/mnt/bee1/wiibee/autorun.sh: ligne 62: wiibee_battery.js: Système de fichiers accessible en lecture seulement
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Système de fichiers accessible en lecture seulement
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Système de fichiers accessible en lecture seulement
+/mnt/bee1/wiibee/autorun.sh: ligne 66: A: Système de fichiers accessible en lecture seulement
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   865 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   870 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-09-19 04:00:57,498][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-09-19 04:01:02,694][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-09-19 04:01:07,901][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-09-19 04:01:13,114][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-09-19 04:01:18,314][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
