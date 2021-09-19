@@ -19145,3 +19145,13 @@ Cannot find device "eth1"
 [2021-09-19 07:01:09,688][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-09-19 07:01:14,880][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-09-19 07:01:20,080][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :   992 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :   997 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh: ligne 59: wiibee.txt: Système de fichiers accessible en lecture seulement
+/mnt/bee1/wiibee/autorun.sh: ligne 61: wiibee.js: Système de fichiers accessible en lecture seulement
+/mnt/bee1/wiibee/autorun.sh: ligne 62: wiibee_battery.js: Système de fichiers accessible en lecture seulement
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Système de fichiers accessible en lecture seulement
+fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Système de fichiers accessible en lecture seulement
+/mnt/bee1/wiibee/autorun.sh: ligne 66: A: Système de fichiers accessible en lecture seulement
