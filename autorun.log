@@ -19155,3 +19155,20 @@ Cannot find device "eth1"
 fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Système de fichiers accessible en lecture seulement
 fatal: Impossible de créer '/mnt/bee1/wiibee/.git/index.lock' : Système de fichiers accessible en lecture seulement
 /mnt/bee1/wiibee/autorun.sh: ligne 66: A: Système de fichiers accessible en lecture seulement
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/010_pi-nopasswd: Permission non accordée
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/README: Permission non accordée
+Cannot find device "eth1"
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/010_pi-nopasswd: Permission non accordée
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/README: Permission non accordée
+Cannot find device "eth1"
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/010_pi-nopasswd: Permission non accordée
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/README: Permission non accordée
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/010_pi-nopasswd: Permission non accordée
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/README: Permission non accordée
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :  1167 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :  1173 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-09-20 16:53:16,600][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-09-20 16:53:21,796][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-09-20 16:53:27,024][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-09-20 16:53:32,227][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-09-20 16:53:37,426][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
