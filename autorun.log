@@ -19215,3 +19215,20 @@ sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/README: Permissio
 [2021-09-20 19:01:12,749][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-09-20 19:01:17,962][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-09-20 19:01:23,182][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/010_pi-nopasswd: Permission non accordée
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/README: Permission non accordée
+Cannot find device "eth1"
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/010_pi-nopasswd: Permission non accordée
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/README: Permission non accordée
+Cannot find device "eth1"
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/010_pi-nopasswd: Permission non accordée
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/README: Permission non accordée
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/010_pi-nopasswd: Permission non accordée
+sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/README: Permission non accordée
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :  1056 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :  1061 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-09-26 15:39:18,669][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-09-26 15:39:23,865][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-09-26 15:39:29,072][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-09-26 15:39:34,275][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-09-26 15:39:39,475][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
