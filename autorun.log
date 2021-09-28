@@ -19232,3 +19232,22 @@ sudo: impossible d'appliquer la fonction stat à /etc/sudoers.d/README: Permissio
 [2021-09-26 15:39:29,072][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-09-26 15:39:34,275][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-09-26 15:39:39,475][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-09-28 19:46:28,060][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-09-28 19:46:33,884][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-09-28 19:46:39,129][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-09-28 19:46:44,349][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Traceback (most recent call last):
+  File "autorun.py", line 74, in <module>
+    with open("wiibee_battery.txt", "a+") as fp:
+IOError: [Errno 30] Read-only file system: 'wiibee_battery.txt'
+Cannot find device "eth1"
+Cannot find device "eth1"
+/mnt/bee1/wiibee/autorun.sh : ligne 55 :  1017 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 58 :  1022 Complété                echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2021-09-28 19:51:00,793][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-09-28 19:51:05,989][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-09-28 19:51:11,196][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-09-28 19:51:16,389][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-09-28 19:51:21,588][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
