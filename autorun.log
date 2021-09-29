@@ -19281,3 +19281,19 @@ Cannot find device "eth1"
 [2021-09-29 01:01:03,361][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-09-29 01:01:08,596][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-09-29 01:01:13,856][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-09-29 02:01:50,216][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-09-29 02:01:55,695][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-09-29 02:02:00,891][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-09-29 02:02:06,091][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Traceback (most recent call last):
+  File "autorun.py", line 74, in <module>
+    with open("wiibee_battery.txt", "a+") as fp:
+IOError: [Errno 30] Read-only file system: 'wiibee_battery.txt'
+Cannot find device "eth1"
+Cannot find device "eth1"
+[2021-09-29 18:17:29,876][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-09-29 18:17:35,664][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-09-29 18:17:40,930][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-09-29 18:17:46,130][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
