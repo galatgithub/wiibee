@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-ssh: Could not resolve hostname github.com: Temporary failure in name resolution
-fatal: Impossilble de lire le dépôt distant.
-
-Veuillez vérifier que vous avez les droits d'accès
-et que le dépôt existe.
-=======
-Everything up-to-date
->>>>>>> 1b948d8362f7633f47fd54b1571a8d95c7fd23e4
+To github.com:galatgithub/wiibee.git
+   453b7e81..e987c6e7  master -> master
