@@ -3,19 +3,20 @@
 # Bluetooth MAC, use: hcitool scan, or: python wiiboard.py
 # BTADDR="00:22:4c:6e:12:6c"
 BTADDR="00:1e:35:fd:11:fc 00:22:4c:6e:12:6c 00:1e:35:ff:b0:04 00:23:31:84:7E:4C 00:26:59:69:F2:25"
-# BTADDR="00:1e:35:fd:11:fc 00:22:4c:6e:12:6c 00:1e:35:ff:b0:04 00:23:31:84:7E:4C 00:26:59:69:F2:25"
 # Bluetooth relays addresses
 BTRLADDR="85:58:0E:16:65:F6"
 
-# fix Huawei E3135 recognized as CDROM [sr0]
-lsusb | grep 12d1:1f01 && sudo usb_modeswitch -v 0x12d1 -p 0x1f01 -M "55534243123456780000000000000a11062000000000000100000000000000"
-# run DHCP client to get an IP
-ifconfig -a | grep eth1 -A1 | grep inet || sudo dhclient eth1
-sleep 10
-lsusb | grep 12d1:1f01 && sudo usb_modeswitch -v 0x12d1 -p 0x1f01 -M "55534243123456780000000000000a11062000000000000100000000000000"
-# run DHCP client to get an IP
-ifconfig -a | grep eth1 -A1 | grep inet || sudo dhclient eth1
-sleep 10
+# Connexion cle 3G
+## fix Huawei E3135 recognized as CDROM [sr0]
+#lsusb | grep 12d1:1f01 && sudo usb_modeswitch -v 0x12d1 -p 0x1f01 -M "55534243123456780000000000000a11062000000000000100000000000000"
+## run DHCP client to get an IP
+#ifconfig -a | grep eth1 -A1 | grep inet || sudo dhclient eth1
+#sleep 10
+#lsusb | grep 12d1:1f01 && sudo usb_modeswitch -v 0x12d1 -p 0x1f01 -M "55534243123456780000000000000a11062000000000000100000000000000"
+## run DHCP client to get an IP
+#ifconfig -a | grep eth1 -A1 | grep inet || sudo dhclient eth1
+#sleep 10
+
 #sleep 12 # FIXME "wait" for dhcpd timeout
 # if BT failed: sudo systemctl status hciuart.service
 hciconfig hci0 || hciattach /dev/serial1 bcm43xx 921600 noflow -
@@ -63,7 +64,8 @@ python txt2js.py wiibee < wiibee.txt > wiibee.js
 python txt2js.py wiibee_battery < wiibee_battery.txt > wiibee_battery.js
 git commit wiibee*.js -m"[data] $(date -Is)"
 git commit autorun.log -m"[data] $(date -Is)"
-git push origin master 2>A || cat A | mail -s "GIT a merdé sur Wiibee" guilhem.a@free.fr 
+#git push origin master 2>A || cat A | mail -s "GIT a merdé sur Wiibee" guilhem.a@free.fr 
+git push origin master 2>A || cat A
 
 # obexftp -b A0:CB:FD:F7:80:F1 -v -p wiibee.js
 # cp ~/wittyPi/wittyPi.log /mnt/bee1/
