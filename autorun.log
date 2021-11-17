@@ -5121,3 +5121,7 @@ Job for hciuart.service canceled.
 [2021-11-17 21:00:42,171][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-11-17 21:00:47,366][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-11-17 21:00:52,565][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+[2021-11-17 22:00:36,264][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-11-17 22:00:42,370][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-11-17 22:00:47,567][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-11-17 22:00:52,788][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
