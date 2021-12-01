@@ -6448,3 +6448,9 @@ Job for hciuart.service canceled.
 [2021-12-01 15:00:42,010][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2021-12-01 15:00:47,215][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2021-12-01 15:00:52,414][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 57 :   923 Complété                echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0
+[2021-12-01 16:00:35,885][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2021-12-01 16:00:41,119][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2021-12-01 16:00:46,322][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2021-12-01 16:00:51,515][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2021-12-01 16:00:56,725][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
