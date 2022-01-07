@@ -9830,3 +9830,8 @@ Cannot find device "eth1"
 [2022-01-07 12:00:56,727][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2022-01-07 12:01:01,920][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2022-01-07 12:01:07,140][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Cannot find device "eth1"
+[2022-01-07 13:12:25,108][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2022-01-07 13:12:30,737][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2022-01-07 13:12:35,941][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2022-01-07 13:12:41,141][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
