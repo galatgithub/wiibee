@@ -567,3 +567,17 @@
 4: after autorun.py : 00:13:09
 5: after txt2js.py wiibee : 00:13:12
 6: after txt2js.py wiibee_battery : 00:13:19
+7: after git push : 00:13:27
+1641834020
+1: ifconfig : 00:00:10
+2: until hciconfig : 00:00:10
+2.1: after rfcomm : 00:00:10
+2.2: after chmod : 00:00:10
+2.3: after open /sleep 5 : 00:00:15
+2.4: after kill : 00:00:15
+2.5: after close /sleep 5 : 00:12:25
+2.6: after kill : 00:12:25
+3: after switch on relay : 00:12:25
+4: after autorun.py : 00:13:10
+5: after txt2js.py wiibee : 00:13:12
+6: after txt2js.py wiibee_battery : 00:13:15
