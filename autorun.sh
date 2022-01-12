@@ -17,8 +17,8 @@ BTRLADDR="85:58:0E:16:65:F6"
 #sleep 10
 #lsusb | grep 12d1:1f01 && sudo usb_modeswitch -v 0x12d1 -p 0x1f01 -M "55534243123456780000000000000a11062000000000000100000000000000"
 # run DHCP client to get an IP
-ifconfig -a | grep eth1 -A1 | grep inet || sudo dhclient eth1
-sleep 10
+#ifconfig -a | grep eth1 -A1 | grep inet || sudo dhclient eth1
+#sleep 10
 
 # timer 1
 echo -e "1: ifconfig : $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >> timer.log
@@ -26,6 +26,7 @@ echo -e "1: ifconfig : $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >>
 #sleep 12 # FIXME "wait" for dhcpd timeout
 # if BT failed: sudo systemctl status hciuart.service
 hciconfig hci0 || hciattach /dev/serial1 bcm43xx 921600 noflow -
+
 # try /dev/ttyAMA0 or /dev/ttyS0 ?
 # try to install raspberrypi-sys-mods
 # try apt-get install --reinstall pi-bluetooth
@@ -67,30 +68,26 @@ sudo chmod o+rw /dev/rfcomm0
 #timer 2.2 
 echo -e "2.2: after chmod : $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >> timer.log
 
-
 #ls -l /dev/rfcomm0
-echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0 & pidbt=$!
+
+# switch ON
+#echo -ne "\xA0\x01\x01\xA2" > /dev/rfcomm0 & pidbt=$!
+echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0 & pidbt=$!
 sleep 5
+kill -9 $pidbt 2>/dev/null
 
 #timer 2.3 
-echo -e "2.3: after open /sleep 5 : $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >> timer.log
+echo -e "2.3: after open /sleep 5/ kill : $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >> timer.log
 
-kill $pidbt 2>/dev/null
+#switch OFF
+#echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0 & pidbt=$!
+#sleep 5
+echo -e "\xA0\x01\x00\xA1" > /dev/rfcomm0 & pidbt=$!
+sleep 10
+kill -9 $pidbt 2>/dev/null
 
 #timer 2.4 
-echo -e "2.4: after kill : $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >> timer.log
-
-echo -ne "\xA0\x01\x00\xA1" > /dev/rfcomm0 & pidbt=$!
-sleep 5
-
-#timer 2.5 
-echo -e "2.5: after close /sleep 5 : $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >> timer.log
-
-kill $pidbt 2>/dev/null
-
-#timer 2.6 
-echo -e "2.6: after kill : $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >> timer.log
-
+echo -e "2.4: after close /sleep 5 / kill: $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >> timer.log
 
 #timer 3
 echo -e "3: after switch on relay : $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >> timer.log
