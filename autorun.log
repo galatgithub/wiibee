@@ -12212,3 +12212,8 @@ BluetoothError: (104, 'Connection reset by peer')
 [2022-02-01 11:32:21,876][wiiboard][ERROR] average called before any data could get in
 [2022-02-01 11:32:24,167][wiiboard][ERROR] average called before any data could get in
 [2022-02-01 11:32:26,457][wiiboard][ERROR] average called before any data could get in
+[2022-02-01 11:34:07,460][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2022-02-01 11:34:12,658][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2022-02-01 11:34:17,885][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2022-02-01 11:34:23,078][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2022-02-01 11:34:28,278][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
