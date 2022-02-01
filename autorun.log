@@ -12243,3 +12243,28 @@ BluetoothError: (104, 'Connection reset by peer')
 [2022-02-01 17:15:44,141][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2022-02-01 17:15:49,334][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2022-02-01 17:15:54,534][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+[2022-02-01 18:00:41,164][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2022-02-01 18:15:43,706][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2022-02-01 18:15:48,905][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2022-02-01 18:15:54,125][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+[2022-02-01 18:15:56,442][wiiboard][ERROR] average called before any data could get in
+[2022-02-01 18:15:58,737][wiiboard][ERROR] average called before any data could get in
+[2022-02-01 18:16:00,993][wiiboard][ERROR] average called before any data could get in
+[2022-02-01 18:16:03,248][wiiboard][ERROR] average called before any data could get in
+[2022-02-01 18:16:05,503][wiiboard][ERROR] average called before any data could get in
+[2022-02-01 18:16:08,435][wiiboard][ERROR] average called before any data could get in
+[2022-02-01 18:16:10,690][wiiboard][ERROR] average called before any data could get in
+[2022-02-01 18:16:12,945][wiiboard][ERROR] average called before any data could get in
+[2022-02-01 18:16:15,200][wiiboard][ERROR] average called before any data could get in
+[2022-02-01 18:16:17,455][wiiboard][ERROR] average called before any data could get in
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/mnt/bee1/wiibee/wiiboard.py", line 121, in loop
+    data = self.receivesocket.recv(25)
+  File "<string>", line 5, in recv
+BluetoothError: (9, 'Bad file descriptor')
+
