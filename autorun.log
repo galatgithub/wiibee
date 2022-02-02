@@ -12317,3 +12317,34 @@ BluetoothError: (104, 'Connection reset by peer')
 [2022-02-01 23:00:46,427][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2022-02-01 23:00:51,625][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
 [2022-02-01 23:00:56,845][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+[2022-02-02 00:00:40,975][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2022-02-02 00:00:46,337][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2022-02-02 00:00:51,535][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2022-02-02 00:00:56,754][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/mnt/bee1/wiibee/wiiboard.py", line 130, in loop
+    self.on_status()
+  File "/mnt/bee1/wiibee/wiiboard.py", line 147, in on_status
+    self.reporting() # Must set the reporting type after every status report
+  File "/mnt/bee1/wiibee/wiiboard.py", line 83, in reporting
+    self.send(COMMAND_REPORTING, mode, extension)
+  File "/mnt/bee1/wiibee/wiiboard.py", line 81, in send
+    self.controlsocket.send(b'\x52'+b''.join(data))
+  File "<string>", line 5, in send
+BluetoothError: (104, 'Connection reset by peer')
+
+[2022-02-02 00:00:59,051][wiiboard][ERROR] average called before any data could get in
+[2022-02-02 00:01:01,342][wiiboard][ERROR] average called before any data could get in
+[2022-02-02 00:01:03,632][wiiboard][ERROR] average called before any data could get in
+[2022-02-02 00:01:05,922][wiiboard][ERROR] average called before any data could get in
+[2022-02-02 00:01:08,212][wiiboard][ERROR] average called before any data could get in
+[2022-02-02 00:01:10,504][wiiboard][ERROR] average called before any data could get in
+[2022-02-02 00:01:12,794][wiiboard][ERROR] average called before any data could get in
+[2022-02-02 00:01:15,085][wiiboard][ERROR] average called before any data could get in
+[2022-02-02 00:01:17,376][wiiboard][ERROR] average called before any data could get in
+[2022-02-02 00:01:19,666][wiiboard][ERROR] average called before any data could get in
