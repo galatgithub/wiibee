@@ -287,3 +287,10 @@ BluetoothError: (104, 'Connection reset by peer')
 [2022-02-04 14:01:03,086][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
 [2022-02-04 14:01:08,292][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
 [2022-02-04 14:01:13,486][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+/mnt/bee1/wiibee/autorun.sh : ligne 88 :   933 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
+/mnt/bee1/wiibee/autorun.sh : ligne 97 :   937 Processus arrêté        echo -e "\xA0\x01\x00\xA1" > /dev/rfcomm0
+[2022-02-04 15:00:46,375][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2022-02-04 15:00:51,567][wiiboard][ERROR] Could not connect to 00:22:4c:6e:12:6c : (112, 'Host is down')
+[2022-02-04 15:00:56,774][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2022-02-04 15:01:13,405][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2022-02-04 15:01:18,605][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
