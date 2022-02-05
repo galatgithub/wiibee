@@ -410,3 +410,34 @@ BluetoothError: (104, 'Connection reset by peer')
 [2022-02-05 11:01:30,826][wiiboard][ERROR] average called before any data could get in
 [2022-02-05 11:01:33,117][wiiboard][ERROR] average called before any data could get in
 [2022-02-05 11:01:35,407][wiiboard][ERROR] average called before any data could get in
+[2022-02-05 12:00:40,950][wiiboard][ERROR] Could not connect to 00:1e:35:fd:11:fc : (112, 'Host is down')
+[2022-02-05 12:01:01,683][wiiboard][ERROR] Could not connect to 00:1e:35:ff:b0:04 : (112, 'Host is down')
+[2022-02-05 12:01:06,886][wiiboard][ERROR] Could not connect to 00:23:31:84:7E:4C : (112, 'Host is down')
+[2022-02-05 12:01:12,086][wiiboard][ERROR] Could not connect to 00:26:59:69:F2:25 : (112, 'Host is down')
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/mnt/bee1/wiibee/wiiboard.py", line 130, in loop
+    self.on_status()
+  File "/mnt/bee1/wiibee/wiiboard.py", line 147, in on_status
+    self.reporting() # Must set the reporting type after every status report
+  File "/mnt/bee1/wiibee/wiiboard.py", line 83, in reporting
+    self.send(COMMAND_REPORTING, mode, extension)
+  File "/mnt/bee1/wiibee/wiiboard.py", line 81, in send
+    self.controlsocket.send(b'\x52'+b''.join(data))
+  File "<string>", line 5, in send
+BluetoothError: (104, 'Connection reset by peer')
+
+[2022-02-05 12:01:14,385][wiiboard][ERROR] average called before any data could get in
+[2022-02-05 12:01:16,676][wiiboard][ERROR] average called before any data could get in
+[2022-02-05 12:01:18,967][wiiboard][ERROR] average called before any data could get in
+[2022-02-05 12:01:21,258][wiiboard][ERROR] average called before any data could get in
+[2022-02-05 12:01:23,548][wiiboard][ERROR] average called before any data could get in
+[2022-02-05 12:01:25,839][wiiboard][ERROR] average called before any data could get in
+[2022-02-05 12:01:28,130][wiiboard][ERROR] average called before any data could get in
+[2022-02-05 12:01:31,074][wiiboard][ERROR] average called before any data could get in
+[2022-02-05 12:01:33,365][wiiboard][ERROR] average called before any data could get in
+[2022-02-05 12:01:35,656][wiiboard][ERROR] average called before any data could get in
