@@ -4,10 +4,10 @@
 #echo -e "$date1" >> timer.log
 
 # Bluetooth MAC, use: hcitool scan, or: python wiiboard.py
-# BTADDR="00:22:4c:6e:12:6c"
-BTADDR="00:1e:35:fd:11:fc 00:22:4c:6e:12:6c 00:1e:35:ff:b0:04 00:23:31:84:7E:4C 00:26:59:69:F2:25"
+# Balance installed : #2 Vert-jaune, var offset = -2.2 (à rajouter dans index.html) 
+BTADDR="00:1E:35:FD:11:FC"
 # Bluetooth relays addresses
-BTRLADDR="85:58:0E:16:65:F6"
+BTRLADDR="85:58:0E:16:7D:9C"
 
 # Connexion cle 3G
 ## fix Huawei E3135 recognized as CDROM [sr0]
@@ -121,11 +121,11 @@ git commit autorun.log -m"[data] $(date -Is)"
 # periodic push
 time2push=$(date -u +%H)
  
-if [ $(expr $time2push % 3) == "0" ]; then
-#git push origin master 2>A || cat A | mail -s "GIT a merdé sur Wiibee" guilhem.a@free.fr 
-# 2> redirige erreur dans fichier A
+#if [ $(expr $time2push % 3) == "0" ]; then
+##git push origin master 2>A || cat A | mail -s "GIT a merdé sur Wiibee" guilhem.a@free.fr 
+## 2> redirige erreur dans fichier A
 	git push origin master 2>A
-fi
+#fi
 
 ##timer 7
 #echo -e "7: after git push : $(date -u --date @$((`date +%s` - $date1)) +%H:%M:%S)" >> timer.log
