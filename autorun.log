@@ -134,3 +134,4 @@ mail: impossible d'expédier le message : Processus terminé avec un état de sorti
 mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
 /mnt/bee1/wiibee/autorun.sh : ligne 88 :   932 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
 [2022-02-20 13:00:41,741][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
+mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
