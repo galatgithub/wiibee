@@ -161,3 +161,6 @@ RTNETLINK answers: File exists
 /mnt/bee1/wiibee/autorun.sh : ligne 88 :  1183 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
 /mnt/bee1/wiibee/autorun.sh : ligne 97 :  1186 Processus arrêté        echo -e "\xA0\x01\x00\xA1" > /dev/rfcomm0
 [2022-02-26 15:15:52,982][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
+Too few arguments.
+Too few arguments.
+[2022-02-26 15:18:57,654][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
