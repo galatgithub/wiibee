@@ -164,3 +164,7 @@ RTNETLINK answers: File exists
 Too few arguments.
 Too few arguments.
 [2022-02-26 15:18:57,654][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
+Too few arguments.
+Too few arguments.
+/mnt/bee1/wiibee/autorun.sh : ligne 88 :  1151 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
+[2022-02-26 15:19:37,876][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
