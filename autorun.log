@@ -1,197 +1,52 @@
+[2022-02-27 17:36:16,372][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:36:18,819][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:36:22,555][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:36:24,992][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:36:27,421][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:36:29,840][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:36:32,237][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:36:34,644][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:36:37,060][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:36:39,498][wiiboard][ERROR] average called before any data could get in
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "<string>", line 3, in recv
+_bluetooth.error: (103, 'Software caused connection abort')
 
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :   933 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-[2022-02-09 10:00:41,697][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :   934 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-[2022-02-15 13:00:40,899][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :   917 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-[2022-02-15 15:00:40,765][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :   916 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-[2022-02-16 08:00:40,875][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :   944 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-[2022-02-16 09:00:40,776][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :   969 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-[2022-02-18 10:00:40,865][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :   932 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-[2022-02-20 13:00:41,741][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :   919 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-[2022-02-23 23:00:40,836][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-RTNETLINK answers: File exists
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :  1183 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-/mnt/bee1/wiibee/autorun.sh : ligne 97 :  1186 Processus arrêté        echo -e "\xA0\x01\x00\xA1" > /dev/rfcomm0
-[2022-02-26 15:15:52,982][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-Too few arguments.
-Too few arguments.
-[2022-02-26 15:18:57,654][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-Too few arguments.
-Too few arguments.
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :  1151 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-[2022-02-26 15:19:37,876][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-Too few arguments.
-Too few arguments.
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :  1184 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-/mnt/bee1/wiibee/autorun.sh : ligne 97 :  1186 Processus arrêté        echo -e "\xA0\x01\x00\xA1" > /dev/rfcomm0
-[2022-02-26 15:34:42,123][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-Too few arguments.
-Too few arguments.
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :  1139 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-/mnt/bee1/wiibee/autorun.sh : ligne 97 :  1141 Processus arrêté        echo -e "\xA0\x01\x00\xA1" > /dev/rfcomm0
-[2022-02-26 15:35:16,827][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-RTNETLINK answers: File exists
-/mnt/bee1/wiibee/autorun.sh : ligne 88 :  1132 Processus arrêté        echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
-/mnt/bee1/wiibee/autorun.sh : ligne 97 :  1134 Processus arrêté        echo -e "\xA0\x01\x00\xA1" > /dev/rfcomm0
-[2022-02-26 15:42:00,892][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : (112, 'Host is down')
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
-mail: impossible d'expédier le message : Processus terminé avec un état de sortie non nul
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/mnt/bee1/wiibee/wiiboard.py", line 121, in loop
+    data = self.receivesocket.recv(25)
+  File "<string>", line 5, in recv
+bluetooth.btcommon.BluetoothError: [Errno 103] Software caused connection abort
+[2022-02-27 17:39:51,977][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:39:54,420][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:39:56,839][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:39:59,239][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:40:01,639][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:40:04,051][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:40:06,484][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:40:08,920][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:40:11,331][wiiboard][ERROR] average called before any data could get in
+[2022-02-27 17:40:13,732][wiiboard][ERROR] average called before any data could get in
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "<string>", line 3, in recv
+_bluetooth.error: (103, 'Software caused connection abort')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/mnt/bee1/wiibee/wiiboard.py", line 121, in loop
+    data = self.receivesocket.recv(25)
+  File "<string>", line 5, in recv
+bluetooth.btcommon.BluetoothError: [Errno 103] Software caused connection abort
