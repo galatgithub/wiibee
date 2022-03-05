@@ -8,6 +8,7 @@ You only need to install `python-bluez` or `python-bluetooth` package.
 
 LICENSE LGPL <http://www.gnu.org/licenses/lgpl.html>
         (c) Nedim Jackman 2008 (c) Pierrick Koch 2016
+        (d) Louis (Fablab INSA Toulouse) 2022
 """
 import time
 import logging
@@ -15,15 +16,15 @@ import collections
 import bluetooth
 
 # Wiiboard Parameters
-CONTINUOUS_REPORTING    = b'\x04'
-COMMAND_LIGHT           = b'\x11'
-COMMAND_REPORTING       = b'\x12'
-COMMAND_REQUEST_STATUS  = b'\x15'
-COMMAND_REGISTER        = b'\x16'
-COMMAND_READ_REGISTER   = b'\x17'
-INPUT_STATUS            = b'\x20'
-INPUT_READ_DATA         = b'\x21'
-EXTENSION_8BYTES        = b'\x32'
+CONTINUOUS_REPORTING    = 0x04
+COMMAND_LIGHT           = 0x11
+COMMAND_REPORTING       = 0x12
+COMMAND_REQUEST_STATUS  = 0x15
+COMMAND_REGISTER        = 0x16
+COMMAND_READ_REGISTER   = 0x17
+INPUT_STATUS            = 0x20
+INPUT_READ_DATA         = 0x21
+EXTENSION_8BYTES        = 0x32
 BUTTON_DOWN_MASK        = 0x08
 LED1_MASK               = 0x10
 BATTERY_MAX             = 200.0
@@ -44,7 +45,7 @@ handler.setFormatter(logging.Formatter('[%(asctime)s][%(name)s][%(levelname)s] %
 logger.addHandler(handler)
 logger.setLevel(logging.INFO) # or DEBUG
 
-b2i = lambda b: int(b.encode("hex"), 16)
+b2i = lambda b: int.from_bytes(b,"big")
 
 def discover(duration=6, prefix=BLUETOOTH_NAME):
     logger.info("Scan Bluetooth devices for %i seconds...", duration)
@@ -61,6 +62,7 @@ class Wiiboard:
         self.light_state = False
         self.button_down = False
         self.battery = 0.0
+        self.temperature = 0.0
         self.running = True
         if address is not None:
             self.connect(address)
@@ -69,27 +71,31 @@ class Wiiboard:
         self.controlsocket.connect((address, 0x11))
         self.receivesocket.connect((address, 0x13))
         logger.debug("Sending mass calibration request")
-        self.send(COMMAND_READ_REGISTER, b"\x04\xA4\x00\x24\x00\x18")
+        self.send(COMMAND_READ_REGISTER.to_bytes(1,'big'), b"\x04\xA4\x00\x24\x00\x18")
         self.calibration_requested = True
         logger.info("Wait for calibration")
         logger.debug("Connect to the balance extension, to read mass data")
-        self.send(COMMAND_REGISTER, b"\x04\xA4\x00\x40\x00")
+        self.send(COMMAND_REGISTER.to_bytes(1,'big'), b"\x04\xA4\x00\x40\x00")
         logger.debug("Request status")
         self.status()
         self.light(0)
     def send(self, *data):
         self.controlsocket.send(b'\x52'+b''.join(data))
     def reporting(self, mode=CONTINUOUS_REPORTING, extension=EXTENSION_8BYTES):
-        self.send(COMMAND_REPORTING, mode, extension)
+        self.send(COMMAND_REPORTING.to_bytes(1,'big'), mode.to_bytes(1,'big'), extension.to_bytes(1,'big'))
     def light(self, on_off=True):
-        self.send(COMMAND_LIGHT, b'\x10' if on_off else b'\x00')
+        self.send(COMMAND_LIGHT.to_bytes(1,'big'), b'\x10' if on_off else b'\x00')
     def status(self):
-        self.send(COMMAND_REQUEST_STATUS, b'\x00')
+        self.send(COMMAND_REQUEST_STATUS.to_bytes(1,'big'), b'\x00')
     def calc_mass(self, raw, pos):
         # Calculates the Kilogram weight reading from raw data at position pos
         # calibration[0] is calibration values for 0kg
         # calibration[1] is calibration values for 17kg
         # calibration[2] is calibration values for 34kg
+        if self.calibration[1][pos] - self.calibration[0][pos] <= 0.001:
+            return 0
+        if self.calibration[2][pos] - self.calibration[1][pos] <= 0.001:
+            return 0
         if raw < self.calibration[0][pos]:
             return 0.0
         elif raw < self.calibration[1][pos]:
@@ -124,14 +130,14 @@ class Wiiboard:
                 continue
             input_type = data[1]
             if input_type == INPUT_STATUS:
-                self.battery = b2i(data[7:9]) / BATTERY_MAX
+                self.battery = data[7]
                 # 0x12: on, 0x02: off/blink
-                self.light_state = b2i(data[4]) & LED1_MASK == LED1_MASK
+                self.light_state = data[4] & LED1_MASK == LED1_MASK
                 self.on_status()
             elif input_type == INPUT_READ_DATA:
                 logger.debug("Got calibration data")
                 if self.calibration_requested:
-                    length = b2i(data[4]) / 16 + 1
+                    length = int(data[4] / 16 + 1)
                     data = data[7:7 + length]
                     cal = lambda d: [b2i(d[j:j+2]) for j in [0, 2, 4, 6]]
                     if length == 16: # First packet of calibration data
@@ -143,9 +149,11 @@ class Wiiboard:
             elif input_type == EXTENSION_8BYTES:
                 self.check_button(b2i(data[2:4]))
                 self.on_mass(self.get_mass(data[4:12]))
+                self.battery = data[14] * 0.039315 + 0.0907875 
+                self.temperature = data[12]
     def on_status(self):
         self.reporting() # Must set the reporting type after every status report
-        logger.info("Status: battery: %.2f%% light: %s", self.battery*100.0,
+        logger.info("Status: battery: {self.battery} light: %s", self.battery*100.0,
                     'on' if self.light_state else 'off')
         self.light(1)
     def on_calibrated(self):
@@ -211,4 +219,5 @@ if __name__ == '__main__':
             raise Exception("Press the red sync button on the board")
         address = wiiboards[0]
     with WiiboardPrint(address) as wiiprint:
+#        wiiprint.send(b"\0x12\0x04\0x34")
         wiiprint.loop()
