@@ -138,3 +138,5 @@ IndexError: index out of range
 [2022-03-06 15:01:19,822][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : [Errno 112] Host is down
 /mnt/bee1/wiibee/autorun.sh: line 58:   662 Killed                  echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
 [2022-03-07 08:01:21,425][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : [Errno 112] Host is down
+/mnt/bee1/wiibee/autorun.sh: line 58:   663 Killed                  echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
+[2022-03-07 19:01:19,470][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : [Errno 112] Host is down
