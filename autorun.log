@@ -2642,3 +2642,10 @@ fatal: failed to run reflog
 error: task 'gc' failed
 /mnt/bee1/wiibee/autorun.sh: line 61:   662 Killed                  echo -e "\xA0\x01\x01\xA2" > /dev/rfcomm0
 [2022-04-23 08:01:19,445][wiiboard][ERROR] Could not connect to 00:1E:35:FD:11:FC : [Errno 112] Host is down
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: inflate: data stream error (incorrect header check)
+error: unable to unpack e4eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc header
+fatal: loose object e4eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc (stored in .git/objects/e4/eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc) is corrupt
+fatal: failed to run reflog
+error: task 'gc' failed
