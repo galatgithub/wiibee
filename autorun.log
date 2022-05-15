@@ -5646,3 +5646,14 @@ error: unable to unpack e4eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc header
 fatal: loose object e4eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc (stored in .git/objects/e4/eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc) is corrupt
 fatal: failed to run repack
 
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+error: inflate: data stream error (incorrect header check)
+error: unable to unpack e4eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc header
+fatal: loose object e4eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc (stored in .git/objects/e4/eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc) is corrupt
+fatal: failed to run repack
+
