@@ -31,3 +31,13 @@ error: Could not read e4eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc
 fatal: Failed to traverse parents of commit f60a0c683e8813820556eb0c96d672d0ff1f53bf
 fatal: failed to run repack
 
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+error: Could not read e4eb6f7629c8676755ac2dd6f8b92ccd7f30b2bc
+fatal: Failed to traverse parents of commit f60a0c683e8813820556eb0c96d672d0ff1f53bf
+fatal: failed to run repack
+
