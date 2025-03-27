@@ -1,7 +1,7 @@
 WiiBee
 ======
 
-Manage beehives with RaspberryPi 3, Wii Fit Balance Board, and a WittyPi.
+Manage bee hives weight with RaspberryPi 3, Wii Fit Balance Board, and a WittyPi.
 
 * http://www.uugear.com/product/wittypi2/
 * http://www.uugear.com/portfolio/use-witty-pi-2-to-build-solar-powered-time-lapse-camera/
